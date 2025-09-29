@@ -1,0 +1,6 @@
+pyspark
+streamlit
+textblob
+pandas
+requests
+numpy
