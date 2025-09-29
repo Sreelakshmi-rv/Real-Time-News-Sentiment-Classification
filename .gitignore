@@ -1,0 +1,21 @@
+# Python / system
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+env/
+venv/
+.env
+
+# notebooks
+.ipynb_checkpoints/
+
+# local data & logs
+stream_data/
+*.sqlite
+nohup.out
+
+# IDEs
+.vscode/
+.DS_Store
